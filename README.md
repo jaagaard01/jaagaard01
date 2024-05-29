@@ -11,7 +11,6 @@ I am a skilled Software Engineer with expertise in JavaScript, React, and Node. 
 - 👯 Looking to collaborate on exciting full-stack projects
 - 💬 Ask me about JavaScript, React, Node.js, and Golang
 - 📫 How to reach me: [jaagaard91@gmail.com](mailto:jaagaard91@gmail.com)
-- ⚡ Fun fact: I am passionate about improving development workflows and enhancing user experiences
 
 ## Skills
 
@@ -21,16 +20,9 @@ I am a skilled Software Engineer with expertise in JavaScript, React, and Node. 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=flat)
-![Other Skills](https://img.shields.io/badge/-Other%20Skills-grey?style=flat)
-
-## Featured Projects
-
-- [**Project Name**](link-to-repo) - Short project description.
-- [**Another Project**](link-to-repo) - Short project description.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaagaard01&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaagaard01&layout=compact&hide_border=true)
 
 ## Contributions
@@ -48,4 +40,4 @@ I am a skilled Software Engineer with expertise in JavaScript, React, and Node. 
 - 🥅 Hockey
 - 💻 Coding
 - 🏞️ Camping
-
+- ✈️ Traveling
