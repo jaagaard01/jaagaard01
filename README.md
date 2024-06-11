@@ -41,3 +41,7 @@ I am a skilled Software Engineer with expertise in JavaScript, React, and Node. 
 - 💻 Coding
 - 🏞️ Camping
 - ✈️ Traveling
+
+
+## Daily.Dev
+<a href="https://app.daily.dev/jaagaard"><img src="https://api.daily.dev/devcards/v2/tF8KjOwbyFy5BKyoPgouk.png?r=g7g" width="356" alt="John Aagaard's Dev Card"/></a>
