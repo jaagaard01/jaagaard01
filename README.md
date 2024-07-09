@@ -27,7 +27,7 @@ I am a skilled Software Engineer with expertise in JavaScript, React, and Node. 
 
 ## Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jaagaard01&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaagaard01&theme=prussian)](https://git.io/streak-stats)
 
 ## Connect with Me
 
