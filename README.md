@@ -6,7 +6,7 @@
 
 I am a skilled Software Engineer with expertise in JavaScript, React, and Node. I am passionate about learning Golang and interested in full-stack development using React and Golang. I aim to contribute to innovative projects in a dynamic environment, fostering team success and technological growth.
 
-- 🏢 Currently working at Haneke Design as a Lead Software Engineer
+- 🏢 Currently working at DMI INC as a Software Engineer
 - 🌱 Currently learning Golang and exploring full-stack development with React and Golang
 - 👯 Looking to collaborate on exciting full-stack projects
 - 💬 Ask me about JavaScript, React, Node.js, and Golang
